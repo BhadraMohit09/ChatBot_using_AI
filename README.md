@@ -4,7 +4,7 @@ Welcome to the **AI ChatBot** project, where we integrate advanced **Artificial 
 
 ![AI ChatBot](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Chatbot_icon.svg/800px-Chatbot_icon.png)
 
-## Features 🚀
+## Features 🚀💫
 
 - **Natural Language Understanding** (NLU)
 - Real-time responses 💬
