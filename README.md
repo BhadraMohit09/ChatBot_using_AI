@@ -2,7 +2,7 @@
 
 Welcome to the **AI ChatBot** project, where we integrate advanced **Artificial Intelligence** techniques to build a dynamic, interactive chatbot that can engage with users in natural language. This chatbot is powered by **Machine Learning** and **Natural Language Processing** (NLP) algorithms, enabling seamless conversations and smart responses.
 
-![AI ChatBot](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Chatbot_icon.svg/800px-Chatbot_icon.svg)
+![AI ChatBot](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Chatbot_icon.svg/800px-Chatbot_icon.png)
 
 ## Features 🚀
 
